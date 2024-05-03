@@ -1,0 +1,8 @@
+{
+  "image": "gcc:13",
+  "settings": { 
+    "cpp.defaultCompilerPath": "/usr/bin/g++",
+    "cpp.standard": "c++20"
+  },
+  "extensions": ["ms-vscode.cpptools"]
+}
